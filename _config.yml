@@ -1,0 +1,131 @@
+layout_spectrum: 0.7328933028939484
+typography_spectrum: 0.640774492880809
+color:
+  brandStrength: 0.44965392391317255
+  lightness: 0.023039790395794825
+  saturation: 0.34070912094952743
+  rhythmicContrast: 0.21662893206941536
+  brandColors:
+    - '#FFFFFF'
+    - '#88BE69'
+    - '#2080A2'
+    - '#84B8CB'
+    - '#5EA57E'
+analytics:
+  google: UA-126577795-1
+author:
+  name: Vassilis Touloumtzoglou
+  email: vassilis.touloumtzoglou@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dad11c25-b9e8-4e40-a48e-1193e327d444.png
+name: Kidimake 3D Printing & CAD
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Kidimake
+    url: 'https://kdmk.social-in3.coop/'
+    type: external
+  - name: A propos
+    url: 'https://kdmk.social-in3.coop/a-propos-3/'
+    type: external
+  - name: Evénements
+    url: 'https://kdmk.social-in3.coop/evenements-2/'
+    type: external
+  - name: Descriptif
+    id: c941b812-c743-4e11-8c7d-d971ff314792
+    type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/kidimake'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/kidimake'
+    type: external
+  - name: Questionnaire
+    id: 22eb7232-0052-4011-b7b6-a2db3d4c724c
+    type: content
+title: Atelier Kidimake 3D Printing & CAD
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6EzYKA3Dd2c%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6EzYKA3Dd2c&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6EzYKA3Dd2c%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen="true"></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/6EzYKA3Dd2c'
+      keywords:
+        - ''
+      related: []
+      author:
+        - name: Vassilis TOULOUMTZOGLOU
+          url: 'https://www.youtube.com/user/vtouloumtzoglou'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Prusa i3 MK3 TimeLapse
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6EzYKA3Dd2c&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6EzYKA3Dd2c&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=6EzYKA3Dd2c&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6EzYKA3Dd2c&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=6EzYKA3Dd2c&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=6EzYKA3Dd2c'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=6EzYKA3Dd2c
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=6EzYKA3Dd2c
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: Uploaded by Vassilis TOULOUMTZOGLOU on 2018-09-27.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Atelier de montage d’un kit d’imprimante 3D (emportée chez-soi à la fin du
+  cours) et introduction à la Conception Assistée par Ordinateur (CAO/CAD) en
+  passant par la mécanique, l’électronique, la robotique et l’informatique.
+purpose:
+  - type: internal
+    label: Questionnaire
+    item: 22eb7232-0052-4011-b7b6-a2db3d4c724c
+  - type: external
+    url: 'http://kidimake.com'
+    label: Inscription à la NewsLetter Kidimake
+github: true
